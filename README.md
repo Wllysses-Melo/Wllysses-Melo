@@ -10,9 +10,7 @@
 
 
 ### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="23px" align="top" /> Focado Em Aprender:</div>
-[![Focado Em Aprender Agora](https://skillicons.dev/icons?i=py,mysql,r)](https://skillicons.dev)
-### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="23px" align="top" /> Outros Conhecimentos:</div>
-[![Outros Conhecimentos](https://skillicons.dev/icons?i=blender,postgres,html,css,js)](https://skillicons.dev)
+[![Focado Em Aprender Agora](https://skillicons.dev/icons?i=py,html,css,blender,java)](https://skillicons.dev)
 
 
 
